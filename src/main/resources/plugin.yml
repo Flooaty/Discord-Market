@@ -1,0 +1,5 @@
+name: Discord-Market
+version: '1.0-SNAPSHOT'
+main: plugin.discordMarket.DiscordMarket
+api-version: '1.21'
+authors: [ Flooaty ]
