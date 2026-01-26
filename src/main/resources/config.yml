@@ -1,0 +1,5 @@
+bot:
+  # insert your discord bot's token here
+  token: ""
+  #insert the desired channel's id here (long value)
+  channelID: 0000000
