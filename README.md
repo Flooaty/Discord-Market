@@ -17,3 +17,7 @@
 - Put your discord token and the id of the channel you want it to send messages into
 
 - Watch this tutorial ("https://www.youtube.com/watch?v=JgSRXd95Nt0") to learn how to make your own bot (Its a tutorial for a similar plugin)
+
+# Ideas for the future
+- Add a config for the embed that gets sent into discord
+  
