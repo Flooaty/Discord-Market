@@ -20,4 +20,4 @@
 
 # Ideas for the future
 - Add a config for the embed that gets sent into discord
-  
+- Add a "Start" message that gets sent when the bot gets started for the first time, that contains some kind of simple tutorial on how to use the plugin ingame
