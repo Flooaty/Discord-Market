@@ -4,7 +4,7 @@
   - This Promotes Player contact since you have to actually meet up ingame to buy it
 - It is just a fancy way to advertise items ingame using discord
 
--# Thanks to @checkpoint486 on discord for the idea (AnimeSMP) 
+- Thanks to @checkpoint486 on discord for the idea (AnimeSMP) 
 
 # How does it work?
 - It uses the Java Discord API (net.dv8tion.JDA)
